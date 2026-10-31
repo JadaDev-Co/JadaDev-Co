@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/JadaDev-Co/JadaDev-Co/blob/main/JadaDev-Co%20200x200.png?raw=true" alt="JadaDev Co banner" width="100%" />
+<img src="https://github.com/JadaDev-Co/JadaDev-Co/blob/main/JadaDev-Co%20200x200.png?raw=true" alt="JadaDev Co banner" />
 
 ### Open-source software • Web platforms • Gaming communities
 
