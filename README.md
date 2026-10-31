@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:071B34,50:087EAD,100:00C2FF&height=220&section=header&text=JadaDev%20Co&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20tools%2C%20platforms%20%26%20experiences&descAlignY=60&descSize=18](https://avatars.githubusercontent.com/u/243933274?v=4)" alt="JadaDev Co banner" width="100%" />
+<img src="https://avatars.githubusercontent.com/u/243933274?s=200&v=4" alt="JadaDev Co banner" width="100%" />
 
 ### Open-source software • Web platforms • Gaming communities
 
