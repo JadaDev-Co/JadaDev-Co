@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/243933274?s=64&v=5" alt="JadaDev Co banner" width="100%" />
+<img src="https://avatars.githubusercontent.com/u/243933274?s=64&v=2" alt="JadaDev Co banner" width="100%" />
 
 ### Open-source software • Web platforms • Gaming communities
 
